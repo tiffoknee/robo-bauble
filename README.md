@@ -15,4 +15,6 @@ Bauble is an eyeball?
 
 Bauble moves?
 
+Bauble has tentacles?
 
+Probably there is a light.
