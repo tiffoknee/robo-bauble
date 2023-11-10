@@ -2,7 +2,7 @@
 The core idea is a ESP32S3 in a Bauble, ideally moves(inside or outside of Bauble), ESP32S3 is on a PCB we make
 
 Join here https://u.easyeda.com/join?type=project&key=f08e7f41234b4b76908aa2b974636c57&inviter=faeb85eb21e24ff0abed2badd48c6564
-
+QRcode might be broke or still uploading or whatever(20:00 UTC 10/11/2023), delete or change of not working later.
 ![image](https://github.com/tiffoknee/robo-bauble/assets/812771/fa0de807-758e-4f1b-a588-5c86f541ab2e)
 
 
